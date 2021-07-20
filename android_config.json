@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.0",
   "update": {
     "version": "1.0",
     "message": ""
@@ -61,7 +61,7 @@
     "button": "我知道了"
   },
   "filter_films": [
-    "AAAAAAAAAAAAAAAAAA"
+    "金瓶梅"
   ],
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
   "play_no_source_hint": "抱歉，该影片暂无播放源，请观看其它影片或者稍后重试",
