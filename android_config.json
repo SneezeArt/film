@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
+  "version": "1.1.1",
   "update": {
-    "version": "1.0",
+    "version": "1.1",
     "message": ""
   },
   "swipes": [
@@ -63,7 +63,7 @@
   "filter_films": [],
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
   "play_no_source_hint": "抱歉，该影片暂无播放源，请观看其它影片或者稍后重试",
-  "playing_error_hint": "抱歉，播放源片段出现错误，请向后拖动影片观看或者稍后重试",
+  "playing_error_hint": "抱歉，播放源片段出现错误，请向后拖动观看或者稍后重试",
   "intercept_tags": [
     "in-page-push",
     "google",
@@ -71,6 +71,7 @@
   ],
   "watch": {
     "title": "观影小贴士",
+    "flag": "1",
     "contents": [
       {
         "content": "本App所有视频资源"
