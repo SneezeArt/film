@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.1",
   "update": {
-    "version": "1.1",
+    "version": "1.2",
     "message": ""
   },
   "swipes": [
@@ -67,7 +67,8 @@
   "intercept_tags": [
     "in-page-push",
     "google",
-    ".gif"
+    ".gif",
+    ".jpg"
   ],
   "watch": {
     "title": "观影小贴士",
