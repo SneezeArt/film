@@ -1,5 +1,5 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "update": {
     "version": "1.3",
     "message": ""
@@ -96,7 +96,7 @@
     "button": "我知道了"
   },
   "filter_films": [
-    "金瓶梅","爱的色放","密爱","爱人"
+    "金瓶梅","爱的色放","密爱","爱人","感官世界","秘书"
   ],
   "buffering_timeout" : 60,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
