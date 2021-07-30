@@ -1,9 +1,10 @@
 {
-  "version": "1.7.4",
+  "version": "1.8.1",
   "update": {
-    "version": "1.3",
+    "version": "1.8",
     "message": ""
   },
+  "review": 0,
   "swipes": [
     {
       "title": "人之怒",
@@ -95,8 +96,10 @@
     ],
     "button": "我知道了"
   },
-  "filter_films": [],
-  "buffering_timeout" : 60,
+  "filter_films": [
+    "金瓶梅"
+  ],
+  "buffering_timeout" : 45,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
   "search_hint_text_theater": "搜索电视剧、综艺、动漫",
   "play_no_source_hint": "抱歉，该影片暂无播放源，请观看其它影片或者稍后重试",
