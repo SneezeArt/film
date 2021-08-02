@@ -1,5 +1,5 @@
 {
-  "version": "2.0.8",
+  "version": "2.0.9",
   "update": {
     "version": "2.0",
     "message": ""
@@ -195,7 +195,9 @@
     "华丽的外出",
     "性瘾",
     "方子传",
-    "人妻"
+    "人妻",
+    "蛇",
+    "美人"
   ],
   "buffering_timeout": 30,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
