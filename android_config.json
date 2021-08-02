@@ -1,5 +1,5 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.3",
   "update": {
     "version": "1.8",
     "message": ""
@@ -97,7 +97,7 @@
     "button": "我知道了"
   },
   "filter_films": [
-    "金瓶梅"
+    "金瓶梅","强奸"
   ],
   "buffering_timeout" : 45,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
