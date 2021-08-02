@@ -1,5 +1,5 @@
 {
-  "version": "2.0.9.4",
+  "version": "2.0.9.5",
   "update": {
     "version": "2.0",
     "message": ""
@@ -210,7 +210,8 @@
     "十一天",
     "花街狂奔",
     "低俗青春",
-    "刺青"
+    "刺青",
+    "卿本"
   ],
   "buffering_timeout": 30,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
