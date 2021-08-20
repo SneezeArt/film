@@ -1,7 +1,7 @@
 {
-  "version": "2.9.2",
+  "version": "3.0.1",
   "update": {
-    "version": "2.9",
+    "version": "3.0",
     "message": ""
   },
   "appId": "",
@@ -226,8 +226,7 @@
     "九歌",
     "魔鬼天使",
     "卿狂",
-    "危情",
-    "周末同床"
+    "危情"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
