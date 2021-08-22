@@ -1,5 +1,5 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.2",
   "update": {
     "version": "3.0",
     "message": ""
@@ -226,7 +226,8 @@
     "九歌",
     "魔鬼天使",
     "卿狂",
-    "危情"
+    "危情",
+    "豪放"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
