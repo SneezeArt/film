@@ -1,5 +1,5 @@
 {
-  "version": "3.0.2",
+  "version": "3.0.3",
   "update": {
     "version": "3.0",
     "message": ""
@@ -227,7 +227,8 @@
     "魔鬼天使",
     "卿狂",
     "危情",
-    "豪放"
+    "豪放",
+    "情欲"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 20,
