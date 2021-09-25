@@ -1,7 +1,7 @@
 {
-  "version": "3.8.4",
+  "version": "4.2.1",
   "update": {
-    "version": "3.8",
+    "version": "4.2",
     "message": ""
   },
   "appId": "",
@@ -64,6 +64,23 @@
       "href": "https://www.nunuyy.cc/dongman/4003.html",
       "rate": "7.6",
       "note": "更新157集"
+    }
+  ],
+  "recommends": [
+    {
+      "title": "说电影",
+      "uid": "5769702533",
+      "type": 1
+    },
+    {
+      "title": "看电影",
+      "uid": "2259107520",
+      "type": 0
+    },
+    {
+      "title": "精彩电影",
+      "uid": "1843443790",
+      "type": 1
     }
   ],
   "drawer": {
@@ -243,7 +260,7 @@
     "不扣钮的女孩"
   ],
   "excluded_filter_films": ["速度与激情"],
-  "buffering_timeout": 15,
+  "buffering_timeout": 10,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
   "search_hint_text_theater": "搜索电影、电视剧、综艺、动漫",
   "play_no_source_hint": "抱歉，该影片暂无播放源，请切换源或者观看其它影片或者稍后重试",
