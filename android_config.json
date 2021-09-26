@@ -1,5 +1,5 @@
 {
-  "version": "4.2.2",
+  "version": "4.2.3",
   "update": {
     "version": "4.2",
     "message": ""
@@ -76,11 +76,6 @@
       "title": "看电影",
       "uid": "2259107520",
       "type": 0
-    },
-    {
-      "title": "电影工厂",
-      "uid": "1757353251",
-      "type": 1
     }
   ],
   "drawer": {
