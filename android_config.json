@@ -1,5 +1,5 @@
 {
-  "version": "4.2.7",
+  "version": "4.2.8",
   "update": {
     "version": "4.2",
     "message": ""
@@ -256,7 +256,8 @@
     "爱奴",
     "低俗",
     "情事",
-    "青春珊瑚岛"
+    "青春珊瑚岛",
+    "女集中营"
   ],
   "excluded_filter_films": ["速度与激情"],
   "buffering_timeout": 10,
