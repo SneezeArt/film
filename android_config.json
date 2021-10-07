@@ -1,9 +1,18 @@
 {
-  "version": "4.2.8",
+  "version": "4.3.1",
   "update": {
-    "version": "4.2",
+    "version": "4.3",
     "message": ""
   },
+  "live_m3u8s": [
+    ".mu3u8",
+    ".mp4",
+    "play.php"
+  ],
+  "film_m3u8s": [
+    ".m3u8",
+    ".mp4"
+  ],
   "appId": "",
   "review": 0,
   "swipes": [
@@ -105,7 +114,7 @@
     ],
     "button": "我知道了"
   },
-  "filter_films_enable" : 1,
+  "filter_films_enable": 1,
   "filter_films": [
     "键",
     "金瓶梅",
@@ -259,7 +268,9 @@
     "青春珊瑚岛",
     "女集中营"
   ],
-  "excluded_filter_films": ["速度与激情"],
+  "excluded_filter_films": [
+    "速度与激情"
+  ],
   "buffering_timeout": 10,
   "search_hint_text": "请输入关键词，如\"复仇者联盟\"",
   "search_hint_text_theater": "搜索电影、电视剧、综艺、动漫",
